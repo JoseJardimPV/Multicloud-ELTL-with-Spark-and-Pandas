@@ -2,7 +2,7 @@
 
 Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da SoulCode (ED7)  
 
-## Equipe
+## EQUIPE
 
 * Ana Flavia Dias [(github)](github.com/anafla7)
 * Ariana Caetano [(github)](github.com/ariana-caetano)
