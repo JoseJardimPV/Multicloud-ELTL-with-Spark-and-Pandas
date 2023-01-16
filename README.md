@@ -10,4 +10,13 @@ Equipe:
 * Marcos Valente [(github)](github.com/MarcosVCS)
 
 ## Dados sobre Comércio Exterior e Vendas de Combustíveis
-** Descrição do trabalho **
+
+RESUMO
+
+
+DATASETS
+
+
+WORKFLOW | TECNOLOGIAS UTILIZADAS
+
+![Workflow](https://bnz06pap002files.storage.live.com/y4mfvpmZgSCLj1OJeqy2nPyFD37mCdCJF3dIVy14mA-5LBuoQUfos8nUXYB-Rpdp0mQS4ZmxOJoL4lkF1a-YwdAnolnPWMHWOb_d8wdFg1rY7TzhjZ-trJ2Z8wsOgJ4SHXnlzgYcTRfS9MygJhlbQQJ9zi-5h87V0gvtDUHdsQ5kvxjYhKx9I7usaLDHJzQl_OONWwcNvzjk-H1rrEYAVu0vE1fQSiB1fhD8A05gQPK9mI?encodeFailures=1&width=1081&height=469)
