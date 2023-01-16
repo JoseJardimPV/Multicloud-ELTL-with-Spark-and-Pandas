@@ -16,7 +16,7 @@ Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da
 Dentre nossas instruções, deveríamos:
 * Escolher duas bases de dados diferentes (sendo uma obritariamente em CSV e outra em formato diferente);
 * Realizar processo completo de ETL dessas bases de dados (utilizando Python, Pandas, PySpark, SQL e ferramentas diversas da Google Cloud);
-* Criar dashboard com insights a partir dos dados normalizados.
+* Criar dashboard no Looker Studio (antigo Data Studio) com insights a partir dos dados normalizados.
 
 [Clique aqui para acessar requisitos elencados pelos professores](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Requisitos_trabalho.md)
 
