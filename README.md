@@ -3,6 +3,7 @@
 Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da SoulCode (ED7)  
 
 ## Equipe
+## Equipe
 
 * Ana Flavia Dias [(github)](github.com/anafla7)
 * Ariana Caetano [(github)](github.com/ariana-caetano)
@@ -12,9 +13,12 @@ Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da
 
 
 ### RESUMO DO TRABALHO
+### RESUMO DO TRABALHO
 
 Dentre nossas instruções, deveríamos:
 * Escolher duas bases de dados diferentes (sendo uma obritariamente em CSV e outra em formato diferente);
+* Realizar processo completo de ETL dessas bases de dados (utilizando Python, Pandas, PySpark, SQL e ferramentas diversas da Google Cloud);
+* Criar dashboard no Looker Studio (antigo Data Studio) com insights a partir dos dados normalizados.
 * Realizar processo completo de ETL dessas bases de dados (utilizando Python, Pandas, PySpark, SQL e ferramentas diversas da Google Cloud);
 * Criar dashboard no Looker Studio (antigo Data Studio) com insights a partir dos dados normalizados.
 
@@ -22,6 +26,8 @@ Dentre nossas instruções, deveríamos:
 
 Nosso grupo deveria trabalhar com o tema "COMÉRCIO - BRASIL", razão pela qual escolhemos bases de dados sobre comércio exterior (importação e exportação) e sobre comércio de combustíveis nos municípios brasileiros. Nosso objetivo foi colher insights a respeito do comércio de petróleo e combustível derivados, com base nos comércios externo e interno desses bens. Filtramos os dados disponíveis entre 2013 - 2022 (janela temporal de dez anos).
 
+
+### DATASETS
 
 ### DATASETS
 
@@ -44,5 +50,7 @@ Vendas de derivados de petróleo e biocombustíveis (ANP)
 
 
 ### WORKFLOW | TECNOLOGIAS UTILIZADAS
+### WORKFLOW | TECNOLOGIAS UTILIZADAS
 
+![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
 ![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
