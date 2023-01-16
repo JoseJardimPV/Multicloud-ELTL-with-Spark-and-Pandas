@@ -23,11 +23,13 @@ Dentre nossas instruções, deveríamos:
 
 Nosso grupo deveria trabalhar com o tema "COMÉRCIO - BRASIL", razão pela qual escolhemos bases de dados sobre comércio exterior (importação e exportação) e sobre comércio de combustíveis nos municípios brasileiros. Nosso objetivo foi colher insights a respeito do comércio de petróleo e combustível derivados, com base nos comércios externo e interno desses bens. Filtramos os dados disponíveis entre 2013 - 2022 (janela temporal de dez anos).
 
+## WORKFLOW | TECNOLOGIAS UTILIZADAS
+
+![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
 
 ## DATASETS
 
 Estatísticas de Comércio Exterior em Dados Abertos (COMEX STAT)
-- Ministério da Economia
 - 4 datasets (totalizando 56,929,067 linhas), com referências a 16 tabelas de Correlações de Códigos e Classificações.
 - Disponíveis em: www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta (Acesso em 3 de janeiro de 2022)
 
@@ -42,7 +44,3 @@ Vendas de derivados de petróleo e biocombustíveis (ANP)
 - Vendas de óleo diesel por tipo (metros cúbicos) 2013-2022
 - Datasets totalizam 9.440 linhas
 - Disponíveis em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/vendas-de-derivados-de-petroleo-e-biocombustiveis (Acesso em 6 de janeiro de 2022)
-
-## WORKFLOW | TECNOLOGIAS UTILIZADAS
-
-![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
