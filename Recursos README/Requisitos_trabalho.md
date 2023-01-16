@@ -22,7 +22,7 @@ A apresentação do trabalho se dará da seguinte maneira:
 * A ordem da apresentação será comunicada pelos professores próximo à data de apresentação.
 
 
-# REQUISITOS OBRIGATÓRIOS
+## REQUISITOS OBRIGATÓRIOS
 
 * Obrigatoriamente os datasets devem ter formatos diferentes (CSV / Json / Parquet / Sql / NoSql/ outros) e 1 deles obrigatoriamente tem que ser em CSV.
 * Operações com Pandas (limpezas , transformações e normalizações) 
@@ -37,7 +37,7 @@ A apresentação do trabalho se dará da seguinte maneira:
 * E deve ser demonstrado em um workflow simples (gráfico) as etapas de ETL com suas respectivas ferramentas.
 
 
-# REQUISITOS DESEJÁVEIS
+## REQUISITOS DESEJÁVEIS
 
 * Implementar ingestão de dados e transformações por meio de uma PIPELINE com modelo criado em apache beam usando o dataflow para o work
 * Utilizar o dataflow com algum modelo pré-definido
