@@ -22,18 +22,6 @@ A apresentação do trabalho se dará da seguinte maneira:
 * A ordem da apresentação será comunicada pelos professores próximo à data de apresentação.
 
 
-## Principais Habilidades a serem avaliadas
-
-* Oralidade e comunicação em público.
-* Capacidade de argumentação
-* Habilidade de codificação em Python e utilização de suas bibliotecas
-* Habilidade de interpretação e análise de dados.
-* Capacidade de implementação de códigos utilizando as bibliotecas Pandas e PySpark.
-* Capacidade de implementação de consultas utilizando a linguagem SQL.
-* Capacidade Analítica e Interpretativa.
-* Capacidade de organização e grupo
-
-
 # REQUISITOS OBRIGATÓRIOS
 
 * Obrigatoriamente os datasets devem ter formatos diferentes (CSV / Json / Parquet / Sql / NoSql/ outros) e 1 deles obrigatoriamente tem que ser em CSV.
@@ -57,3 +45,15 @@ A apresentação do trabalho se dará da seguinte maneira:
 * Por meio de uma PIPELINE fazer o carregamento dos dados normalizados diretamente para um DW ou DataLake ou ambos
 * Montar um relatório completo com os insights que justificam todo o processo de ETL utilizado
 * Levantar custos com a utilização do google cloud no período do projeto e possíveis otimizações de custo
+
+
+## Principais Habilidades a serem avaliadas
+
+* Oralidade e comunicação em público.
+* Capacidade de argumentação
+* Habilidade de codificação em Python e utilização de suas bibliotecas
+* Habilidade de interpretação e análise de dados.
+* Capacidade de implementação de códigos utilizando as bibliotecas Pandas e PySpark.
+* Capacidade de implementação de consultas utilizando a linguagem SQL.
+* Capacidade Analítica e Interpretativa.
+* Capacidade de organização e grupo
