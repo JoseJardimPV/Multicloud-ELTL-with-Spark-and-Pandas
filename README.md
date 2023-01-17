@@ -4,11 +4,11 @@ Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da
 
 ## EQUIPE
 
-* Ana Flavia Dias [(github)](github.com/anafla7)
+* Ana Flavia Dias [(github)](https://github.com/anafla7)
 * Ariana Caetano [(github)](https://github.com/ariana-caetano)
-* Erika Cunha [(github)](github.com/Erikacunha024)
-* José Jardim [(github)](github.com/JoseJardimPV)
-* Marcos Valente [(github)](github.com/MarcosVCS)
+* Erika Cunha [(github)](https://github.com/Erikacunha024)
+* José Jardim [(github)](https://github.com/JoseJardimPV)
+* Marcos Valente [(github)](https://github.com/MarcosVCS)
 
 ## RESUMO DO TRABALHO
 
