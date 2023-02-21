@@ -1,3 +1,7 @@
+## WORKFLOW | TECNOLOGIAS UTILIZADAS
+
+![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
+
 # Projeto Final Engenharia de Dados SoulCode 
 
 Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da SoulCode (ED7)  
@@ -23,9 +27,6 @@ Dentre nossas instruções, deveríamos:
 
 Nosso grupo deveria trabalhar com o tema "COMÉRCIO - BRASIL", razão pela qual escolhemos bases de dados sobre comércio exterior (importação e exportação) e sobre comércio de combustíveis nos municípios brasileiros. Nosso objetivo foi colher insights a respeito do comércio de petróleo e combustível derivados, com base nos comércios externo e interno desses bens. Filtramos os dados disponíveis entre 2013 - 2022 (janela temporal de dez anos).
 
-## WORKFLOW | TECNOLOGIAS UTILIZADAS
-
-![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
 
 ## DATASETS
 
