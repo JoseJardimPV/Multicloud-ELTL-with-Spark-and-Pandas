@@ -2,7 +2,8 @@
 
 ![Workflow](https://github.com/MarcosVCS/Projeto-Final---Engenharia-de-Dados---SoulCode/blob/main/Recursos%20README/Workflow.png?raw=true)
 
-# Projeto Final Engenharia de Dados SoulCode 
+# Projeto Final Engenharia de Dados SoulCode
+
 
 Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da SoulCode (ED7)  
 
@@ -40,8 +41,8 @@ Preços de Revenda e de Distribuição de Combustíveis (ANP)
 - Disponíveis em: www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos (Acesso em 4 de janeiro de 2022)
 
 Vendas de derivados de petróleo e biocombustíveis (ANP)
-- Vendas de combustíveis por segmento (metros cúbicos) 2012-2022 
-- Vendas de GLP por tipo de vasilhame (metros cúbicos) 2007-2022 
+- Vendas de combustíveis por segmento (metros cúbicos) 2012-2022
+- Vendas de GLP por tipo de vasilhame (metros cúbicos) 2007-2022
 - Vendas de óleo diesel por tipo (metros cúbicos) 2013-2022
 - Datasets totalizam 9.440 linhas
 - Disponíveis em: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/vendas-de-derivados-de-petroleo-e-biocombustiveis (Acesso em 6 de janeiro de 2022)
