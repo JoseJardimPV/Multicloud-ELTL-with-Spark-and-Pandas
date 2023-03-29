@@ -18,7 +18,7 @@ Repositório para entrega do projeto final do Bootcamp de Engenharia de Dados da
 ## RESUMO DO TRABALHO
 
 Dentre nossas instruções, deveríamos:
-* Escolher duas bases de dados diferentes (sendo uma obrigatóriamente em CSV e outra em formato diferente);
+* Escolher duas bases de dados diferentes (sendo uma obrigatoriamente em CSV e outra em formato diferente);
 * Realizar processo completo de ETL dessas bases de dados (utilizando Python, Pandas, PySpark, SQL e ferramentas diversas da Google Cloud);
 * Criar dashboard no Looker Studio (antigo Data Studio) com insights a partir dos dados normalizados.
 * Realizar processo completo de ETL dessas bases de dados (utilizando Python, Pandas, PySpark, SQL e ferramentas diversas da Google Cloud);
